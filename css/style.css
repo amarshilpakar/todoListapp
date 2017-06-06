@@ -1,0 +1,29 @@
+.header{
+  padding: 5px;
+}
+
+.subheader{
+  padding: 0;
+  background: lightgrey;
+  height:45px;
+  padding-right:20px; 
+}
+.table{
+  border-collapse: separate;
+    border-spacing: 2px;
+}
+
+th{
+  background-color: #606092;
+  color: white;
+}
+th.check {
+    width: 2%;
+}
+.form-horizontal {
+    margin-top: 20px;
+}
+
+td{
+  background-color: #eee;
+}
